@@ -1,0 +1,14 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# build
+build-*
+Makefile
+*.o
+*.obj
+
+# system
+*.exe
+*.out
